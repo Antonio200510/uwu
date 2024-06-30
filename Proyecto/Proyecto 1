@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mensaje para mi Novia</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f8ff;
+            font-family: 'Arial', sans-serif;
+            color: #333;
+        }
+        .message {
+            text-align: center;
+            border: 2px solid #ff69b4;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff0f5;
+        }
+        .message h1 {
+            font-size: 2em;
+            color: #ff69b4;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        <h1>¡Hola, Amor!</h1>
+        <p>Espero que tengas un bonito día.</p>
+        <p>Eres lo mejor que me ha pasado en la vida.</p>
+        <p>Te amo mucho.</p>
+    </div>
+</body>
+</html>
